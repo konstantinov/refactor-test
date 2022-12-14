@@ -1,0 +1,25 @@
+{
+  "name": "refactor-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konstantinov/refactor-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konstantinov/refactor-test/issues"
+  },
+  "homepage": "https://github.com/konstantinov/refactor-test#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "cripto": "^1.1.4"
+  }
+}
